@@ -1,0 +1,24 @@
+{
+  "name": "dir-compare-deprecation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olsonpm/dir-compare-deprecation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olsonpm/dir-compare-deprecation/issues"
+  },
+  "homepage": "https://github.com/olsonpm/dir-compare-deprecation#readme",
+  "dependencies": {
+    "dir-compare": "^1.2.0"
+  },
+  "engines" : { "node" : ">=7" }
+}
